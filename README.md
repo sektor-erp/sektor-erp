@@ -1,10 +1,9 @@
-<p align="center"><img src="assets/banner.svg" alt="Veridian — Software de gestión para industrias" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Sektor — Software de gestión para industrias" width="100%"></p>
 
-### Veridian
+### Sektor
 
-Software de gestión empresarial para industrias, hecho en Argentina.
+Sistema de gestión para empresas industriales, hecho en Argentina.
 
-- **SIG — Sistema Integrado de Gestión:** producción, inventario, ventas y facturación electrónica, calidad, nómina y mantenimiento en un solo sistema. Instalación dedicada para cada empresa.
-- **[AuthKit Express](https://github.com/veridian-ware/Authkit):** autenticación JWT y control de roles para Express.js.
+Producción, inventario, ventas y facturación electrónica ARCA, calidad, sueldos y mantenimiento en un solo sistema, instalado en el servidor de cada empresa.
 
-🌐 [veridian-ware.com](https://veridian-ware.com) · ✉️ contacto@veridian-erp.com.ar
+🌐 [veridian-ware.com](https://veridian-ware.com) · ✉️ contacto@veridian-erp.com.ar · [Instagram](https://www.instagram.com/sektor.erp) · [YouTube](https://www.youtube.com/@sektor.gestion)
